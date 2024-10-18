@@ -12,4 +12,4 @@
 
 # Dataset availability
 
-<p align="justify">The dataset with subjective evaluation results is available upon request. To access the dataset, send an email with your request to vladimir.a.mazin@gmail.com
+<p align="justify">The dataset with subjective evaluation results is available upon request. To access the dataset, send an email with your request to amozhaeva@eit.ac.nz
